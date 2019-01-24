@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStarDemo.Plugins", "AStarDemo.Plugins.csproj", "{11C82F2E-838B-BBB2-1EDF-AEABD27EE42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStarDemo", "AStarDemo.csproj", "{2F46A850-3BB1-8230-195B-2FA53FD977F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStarDemo.Editor.Plugins", "AStarDemo.Editor.Plugins.csproj", "{A7C1C6D9-0112-AD94-98BF-6BF1C6151DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C82F2E-838B-BBB2-1EDF-AEABD27EE42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C82F2E-838B-BBB2-1EDF-AEABD27EE42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C82F2E-838B-BBB2-1EDF-AEABD27EE42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C82F2E-838B-BBB2-1EDF-AEABD27EE42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F46A850-3BB1-8230-195B-2FA53FD977F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F46A850-3BB1-8230-195B-2FA53FD977F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F46A850-3BB1-8230-195B-2FA53FD977F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F46A850-3BB1-8230-195B-2FA53FD977F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C1C6D9-0112-AD94-98BF-6BF1C6151DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C1C6D9-0112-AD94-98BF-6BF1C6151DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C1C6D9-0112-AD94-98BF-6BF1C6151DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C1C6D9-0112-AD94-98BF-6BF1C6151DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
